@@ -1,0 +1,12 @@
+parameter,target,simulated,unit,corner,notes
+DC Gain,,,dB,TT,
+GBW,,,MHz,TT,
+Phase Margin,,,deg,TT,
+Slew Rate,,,V/us,TT,
+Power Consumption,,,mW,TT,
+ICMR,,,V,TT,
+Output Swing,,,V,TT,
+CMRR,,,dB,TT,
+PSRR,,,dB,TT,
+Input Referred Noise,,,nV/rtHz,TT,
+Settling Time (1%),,,ns,TT,

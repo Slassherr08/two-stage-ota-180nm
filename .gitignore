@@ -1,0 +1,55 @@
+# === Keysight ADS workspace clutter ===
+# ADS regenerates these on every simulation run — don't track them.
+*.log
+*.lck
+*/networks/
+*/hpeesofsim/
+*/mns_sub_iterator/
+*/momandmm/
+*/data/*.ds
+*.aif
+*.ds_backup
+*.wrk.lock
+*/mom_dsn/*.log
+*/mom_dsn/*.tmp
+*/*_wrk/networks/
+*/*_wrk/hpeesofsim/
+*/*_wrk/*.log
+*/*_wrk/plot_data_cache/
+
+# === 180nm technology / PDK files (foundry-licensed — never push these) ===
+# Active patterns covering common ADS PDK/tech-lib naming conventions.
+# If your PDK folder doesn't match one of these, add its exact name below too.
+ads_workspace/**/*_tech/
+ads_workspace/**/*_pdk/
+ads_workspace/**/*tech_lib*/
+ads_workspace/**/design_kit/
+ads_workspace/**/gpdk*/
+ads_workspace/**/*.tech
+ads_workspace/**/*.pdk
+ads_workspace/**/lib.defs
+ads_workspace/**/*.rul
+# If none of the above match, replace TECH_FOLDER_NAME with your PDK's
+# actual folder name (check with: ls ads_workspace/*_wrk/):
+# ads_workspace/**/TECH_FOLDER_NAME/
+
+# Simulation temp/cache
+*.tmp
+*.cache
+*.bak
+*~
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Large raw datasets (keep only exported/processed results)
+simulations/**/*.raw
+simulations/**/*.ds
+
+# Keep these even though they match patterns above
+!results/**
+!schematics/exported/**
