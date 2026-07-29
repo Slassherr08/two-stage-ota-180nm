@@ -2,30 +2,27 @@
 
 ## 1. Target Specifications
 
-| Parameter | Symbol | Target Value | Condition/Notes |
+| Parameter | Symbol | Target Value 
 |---|---|---|---|
-| DC Gain | A_v | | |
-| Gain-Bandwidth Product | GBW | | |
-| Phase Margin | PM | | |
-| Slew Rate | SR | | |
-| Power Consumption | P | | |
-| Supply Voltage | V_DD | | |
-| Load Capacitance | C_L | | |
-| Input Common Mode Range | ICMR | | |
-| Output Swing | | | |
-| CMRR | | | |
-| PSRR | | | |
-| Input-Referred Noise | | | |
-| Settling Time | | | |
-| Die Area | | | |
-
+| DC Gain | A_v |70dB| 
+| Gain-Bandwidth Product | GBW |1MHz|
+| Phase Margin | PM |60°
+| Slew Rate | SR |10V/µs|
+| Power Consumption | P | ≤1mW |
+| Supply Voltage | V_DD |1.8V|
+| Load Capacitance | C_L | 5pF |
+| Input Common Mode Range | ICMR |1 V|
+| Output Swing | 1.4 V |
+| CMRR |≥60|
+| PSRR |≥50|
+e
 ## 2. Topology Choice
 
 Describe the chosen topology and justification:
-- First stage:
-- Second stage:
-- Compensation scheme (Miller / Miller with nulling resistor / cascode compensation / feedforward):
-- Biasing scheme:
+- First stage: Differential amplifier with active load
+- Second stage: Common source gain stage
+- Compensation scheme: Miller
+- Biasing scheme: Current Mirror
 
 ## 3. Technology Parameters (180nm)
 
@@ -36,8 +33,3 @@ Describe the chosen topology and justification:
 | L_min | | |
 | Typical V_DD | | |
 
-## 4. Assumptions & Constraints
-
-- Process corners considered:
-- Temperature range:
-- Supply variation:
