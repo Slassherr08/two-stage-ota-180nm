@@ -15,7 +15,6 @@
 | Output Swing | | 1.4 V |
 | CMRR | |≥60|
 | PSRR | |≥50|
-e
 ## 2. Topology Choice
 
 Describe the chosen topology and justification:
