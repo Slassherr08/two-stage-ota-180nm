@@ -7,24 +7,24 @@ amplifier (OTA) in 180nm CMOS technology, using **Keysight ADS**.
 
 - **Technology node:** 180nm CMOS
 - **Tool:** Keysight ADS
-- **Topology:** Two-stage OTA (first stage: differential pair, second stage: common-source gain stage), Miller compensation with nulling resistor
+- **Topology:** Two-stage OTA (first stage: differential pair, second stage: common-source gain stage), Miller compensation 
 
-> Replace/expand this section with your actual topology once finalized (cascode? simple differential pair? current mirror load type? compensation scheme?).
 
 ## Target Specifications
 
 | Parameter | Target | Simulated | Notes |
 |---|---|---|---|
-| DC Gain (dB) | | | |
-| GBW (MHz) | | | |
-| Phase Margin (°) | | | |
-| Slew Rate (V/µs) | | | |
-| Power Consumption (mW) | | | |
-| Input Common Mode Range (V) | | | |
-| Output Swing (V) | | | |
-| CMRR (dB) | | | |
-| PSRR (dB) | | | |
-| Input-referred Noise | | | |
+| Supply Voltage (V)|1.8|||
+| DC Gain (dB) |70| | |
+| GBW (MHz) |10| | |
+| Phase Margin (°) |60| | |
+| Slew Rate (V/µs) |10 | | |
+| Power Consumption (mW) |≤1mW| | |
+| Input Common Mode Range (V) |1| | |
+| Output Swing (V) |1.4| | |
+| CMRR (dB) |≥60| | |
+| PSRR (dB) |≥50| | |
+
 
 See [`docs/specifications.md`](docs/specifications.md) for full derivations and [`results/summary_table.csv`](results/summary_table.csv) for the machine-readable version.
 
