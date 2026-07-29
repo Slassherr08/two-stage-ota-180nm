@@ -2,19 +2,19 @@
 
 ## 1. Target Specifications
 
-| Parameter | Symbol | Target Value 
-|---|---|---|---|
+| Parameter | Symbol | Target Value |
+|---|---|---|
 | DC Gain | A_v |70dB| 
 | Gain-Bandwidth Product | GBW |1MHz|
-| Phase Margin | PM |60°
+| Phase Margin | PM |60°|
 | Slew Rate | SR |10V/µs|
 | Power Consumption | P | ≤1mW |
 | Supply Voltage | V_DD |1.8V|
 | Load Capacitance | C_L | 5pF |
 | Input Common Mode Range | ICMR |1 V|
-| Output Swing | 1.4 V |
-| CMRR |≥60|
-| PSRR |≥50|
+| Output Swing | | 1.4 V |
+| CMRR | |≥60|
+| PSRR | |≥50|
 e
 ## 2. Topology Choice
 
