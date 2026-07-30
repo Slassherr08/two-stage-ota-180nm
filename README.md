@@ -37,8 +37,6 @@ two-stage-ota-180nm/
 ├── schematics/exported/   PDF/PNG exports of schematics for quick viewing
 ├── simulations/           Organized by analysis type (dc, ac, transient, noise, corners_mc)
 ├── results/               Final plots and summary tables
-├── layout/                Layout files (if/when applicable)
-└── scripts/               AEL/Python automation and post-processing scripts
 ```
 
 ## Getting Started
@@ -58,14 +56,10 @@ two-stage-ota-180nm/
 - [ ] AC analysis (gain, phase margin, GBW)
 - [ ] Transient analysis (slew rate, settling time)
 - [ ] Noise analysis
-- [ ] PVT corners
-- [ ] Monte Carlo
-- [ ] Layout
-- [ ] Post-layout simulation
+
 
 ## References
 
-- List textbooks, papers, or app notes used (e.g., Razavi, *Design of Analog CMOS Integrated Circuits*)
 
 ## License
 
