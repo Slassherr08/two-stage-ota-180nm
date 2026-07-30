@@ -1,0 +1,7 @@
+<!DOCTYPE SaveWorkspaceState>
+<SaveWorkspaceState>
+    <Windows>
+        <Schematic cell="OTA_V01" geom="1,0,1,318,131,1536,825,1920,1080" height="825" lib="two_stage_OTA_180nm_lib" view="schematic" width="1536" x1="318" y1="100"/>
+    </Windows>
+    <MainWindowTab tab="1"/>
+</SaveWorkspaceState>

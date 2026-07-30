@@ -13,4 +13,4 @@ AppIdentifier                  OA File System Design Manager
 OSType                         win32
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         C:\Users\user\Desktop\Projects\two-stage-ota-180nm\ads_workspace\two_stage_OTA_180nm_wrk\two_stage_OTA_180nm_lib\tech.db.cdslck
-TimeEditLocked                 Thu Jul 30 17:02:00 2026 Iran Standard Time
+TimeEditLocked                 Thu Jul 30 17:24:35 2026 Iran Standard Time

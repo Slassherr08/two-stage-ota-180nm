@@ -1,0 +1,744 @@
+
+hpeesofsim (*) 631.update0.1 Sep  8 2025, MINT version 5
+    (64-bit windows built: Mon Sep 08, 2025 20:46:19 -0700)
+
+***** Simulation started at Thu Jul 30 23:44:47 2026
+      Running on host: "DESKTOP-5BN4101"
+      In Directory: "C:\Users\user\Desktop\Projects\two-stage-ota-180nm\ads_workspace\two_stage_OTA_180nm_wrk\data"
+      Process ID: 17220
+
+Warning detected by hpeesofsim during circuit set up.
+    No SweepPlan instances found.  Sweep `Sweep2' is disabled.
+
+
+CT Sweep2[1] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  
+
+CT Sweep2[1].Sweep1[1] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  =  VGS=(0->1.8)
+
+DC Sweep2[1].Sweep1[1].DC1[1/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=0 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[2/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=10e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[3/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=20e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[4/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=30e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[5/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=40e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[6/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=50e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[7/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=60e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[8/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=70e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[9/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=80e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[10/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=90e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[11/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=100e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[12/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=110e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[13/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=120e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[14/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=130e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[15/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=140e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[16/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=150e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[17/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=160e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[18/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=170e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[19/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=180e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[20/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=190e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[21/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=200e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[22/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=210e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[23/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=220e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[24/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=230e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[25/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=240e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[26/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=250e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[27/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=260e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[28/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=270e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[29/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=280e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[30/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=290e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[31/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=300e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[32/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=310e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[33/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=320e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[34/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=330e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[35/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=340e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[36/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=350e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[37/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=360e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[38/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=370e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[39/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=380e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[40/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=390e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[41/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=400e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[42/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=410e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[43/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=420e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[44/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=430e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[45/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=440e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[46/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=450e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[47/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=460e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[48/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=470e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[49/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=480e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[50/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=490e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[51/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=500e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[52/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=510e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[53/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=520e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[54/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=530e-03 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[55/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=540e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[56/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=550e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[57/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=560e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[58/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=570e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[59/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=580e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[60/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=590e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[61/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=600e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[62/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=610e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[63/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=620e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[64/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=630e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[65/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=640e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[66/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=650e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[67/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=660e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[68/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=670e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[69/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=680e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[70/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=690e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[71/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=700e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[72/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=710e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[73/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=720e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[74/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=730e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[75/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=740e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[76/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=750e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[77/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=760e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[78/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=770e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[79/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=780e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[80/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=790e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[81/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=800e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[82/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=810e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[83/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=820e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[84/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=830e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[85/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=840e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[86/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=850e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[87/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=860e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[88/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=870e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[89/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=880e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[90/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=890e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[91/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=900e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[92/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=910e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[93/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=920e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[94/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=930e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[95/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=940e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[96/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=950e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[97/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=960e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[98/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=970e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[99/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=980e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[100/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=990e-03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[101/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[102/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.01 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[103/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.02 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[104/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.03 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[105/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.04 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[106/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.05 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[107/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.06 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[108/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.07 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[109/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.08 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[110/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.09 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[111/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.1 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[112/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.11 
+.
+DC convergence achieved in 46 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[113/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.12 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[114/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.13 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[115/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.14 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[116/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.15 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[117/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.16 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[118/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.17 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[119/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.18 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[120/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.19 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[121/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.2 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[122/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.21 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[123/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.22 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[124/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.23 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[125/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.24 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[126/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.25 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[127/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.26 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[128/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.27 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[129/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.28 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[130/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.29 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[131/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.3 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[132/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.31 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[133/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.32 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[134/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.33 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[135/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.34 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[136/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.35 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[137/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.36 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[138/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.37 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[139/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.38 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[140/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.39 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[141/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.4 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[142/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.41 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[143/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.42 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[144/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.43 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[145/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.44 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[146/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.45 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[147/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.46 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[148/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.47 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[149/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.48 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[150/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.49 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[151/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.5 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[152/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.51 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[153/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.52 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[154/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.53 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[155/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.54 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[156/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.55 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[157/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.56 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[158/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.57 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[159/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.58 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[160/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.59 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[161/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.6 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[162/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.61 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[163/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.62 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[164/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.63 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[165/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.64 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[166/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.65 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[167/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.66 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[168/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.67 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[169/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.68 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[170/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.69 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[171/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.7 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[172/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.71 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[173/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.72 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[174/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.73 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[175/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.74 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[176/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.75 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[177/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.76 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[178/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.77 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[179/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.78 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[180/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.79 
+.
+DC convergence achieved in 47 iterations.
+
+DC Sweep2[1].Sweep1[1].DC1[181/181] <two_stage_OTA_180nm_lib:OTA_V01:schematic>  = VGS=1.8 
+.
+DC convergence achieved in 47 iterations.
+
+Resource usage:
+  Total stopwatch time     =     0.71 seconds.
+
